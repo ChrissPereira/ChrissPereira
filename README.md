@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrissPereira
 - 👀 I’m interested in learn and contribute.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning C# and .NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 to reach me +55(31)986418939
 
